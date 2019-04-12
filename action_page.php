@@ -1,9 +1,4 @@
-<html>
-<body>
-asdasd
- <?php
-  echo "test";
- ?>
-  
-</body>
-</html>
+
+ test<?php
+echo "test"
+?>
