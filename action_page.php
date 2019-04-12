@@ -1,8 +1,8 @@
 <html>
 <body>
-
+asdasd
  <?php
-  echo $_POST["foodName"];
+  echo "test";
  ?>
   
 </body>
